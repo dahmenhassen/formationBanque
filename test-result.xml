@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" duration="41.444727" testcasecount="2" total="2" passed="2" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-01-08T 15:14:36Z" end-time="2021-01-08T 15:15:18Z">
+  <test-suite type="Assembly" name="banque-functest.dll" fullname="C:\Users\Administrateur\Desktop\banque-functest\bin\Debug\netcoreapp3.0\banque-functest.dll" total="2" passed="2" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-01-08T 15:14:36Z" end-time="2021-01-08T 15:15:18Z" duration="41.444727">
+    <test-suite type="TestSuite" name="UnknownNamespace" fullname="UnknownNamespace" total="2" passed="2" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-01-08T 15:14:36Z" end-time="2021-01-08T 15:15:18Z" duration="41.444727">
+      <test-suite type="TestFixture" name="PrincipaleChormeTest" fullname="UnknownNamespace.PrincipaleChormeTest" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-01-08T 15:14:36Z" end-time="2021-01-08T 15:14:40Z" duration="3.1597359999999997">
+        <test-case name="principale" fullname="UnknownNamespace.PrincipaleChormeTest.principale" methodname="principale" classname="PrincipaleChormeTest" result="Passed" start-time="2021-01-08T 15:14:36Z" end-time="2021-01-08T 15:14:40Z" duration="3.1597359999999997" asserts="0" />
+      </test-suite>
+      <test-suite type="TestFixture" name="PrincipaleFireFoxTest" fullname="UnknownNamespace.PrincipaleFireFoxTest" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-01-08T 15:14:40Z" end-time="2021-01-08T 15:15:18Z" duration="38.284991">
+        <test-case name="principale" fullname="UnknownNamespace.PrincipaleFireFoxTest.principale" methodname="principale" classname="PrincipaleFireFoxTest" result="Passed" start-time="2021-01-08T 15:14:40Z" end-time="2021-01-08T 15:15:18Z" duration="38.284991" asserts="0" />
+      </test-suite>
+    </test-suite>
+    <errors />
+  </test-suite>
+</test-run>

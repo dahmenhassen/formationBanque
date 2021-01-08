@@ -98,3 +98,5 @@ C:\Users\Administrateur\Desktop\banque-functest\obj\Debug\netcoreapp3.0\banque-f
 C:\Users\Administrateur\Desktop\banque-functest\obj\Debug\netcoreapp3.0\banque-functest.csproj.CopyComplete
 C:\Users\Administrateur\Desktop\banque-functest\obj\Debug\netcoreapp3.0\banque-functest.dll
 C:\Users\Administrateur\Desktop\banque-functest\obj\Debug\netcoreapp3.0\banque-functest.pdb
+C:\Users\Administrateur\Desktop\banque-functest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll
+C:\Users\Administrateur\Desktop\banque-functest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll
